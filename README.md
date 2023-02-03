@@ -1,6 +1,6 @@
-<======= PULL REQUEST CREATE ========>
+<h1>*<======= PULL REQUEST CREATE ========>*</h1>
 
-Islep atirgan page'ge qarapa brach jaratamiz (git branch "students") ma'selen: "students"<br>
+Islep atirgan page'ge qarap brach jaratamiz (git branch "students") ma'selen: "students"<br>
 git checkout "students"<br>
 git add . <br>
 git commit -m "o'zgeriske baylanisli commet" <br>
