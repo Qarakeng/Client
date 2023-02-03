@@ -1,4 +1,4 @@
-<h1>*<======= PULL REQUEST CREATE ========>*</h1>
+*<======= PULL REQUEST CREATE ========>*
 
 Islep atirgan page'ge qarap brach jaratamiz (git branch "students") ma'selen: "students"<br>
 git checkout "students"<br>
